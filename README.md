@@ -1,6 +1,14 @@
 # ODSC Intro to Data Visualization
 
-This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
+This repository contains the code covered in the talk, _A Practical Introduction to Data Visualization for Data Scientists_, at ODSC East 2024.
+
+This is an [Observable Framework](https://observablehq.com/framework) project. After downloading the code or cloning the repo, open a shell and run the following command inside the directory:
+
+```
+npm install
+```
+
+To start the local preview server, run:
 
 ```
 npm run dev
@@ -9,18 +17,6 @@ npm run dev
 Then visit <http://localhost:3000> to preview your project.
 
 For more, see <https://observablehq.com/framework/getting-started>.
-
-
-## Command reference
-
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your project to Observable                        |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
 
 ## Google analytics example
 
