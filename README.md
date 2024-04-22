@@ -2,7 +2,9 @@
 
 This repository contains the code covered in the talk, _A Practical Introduction to Data Visualization for Data Scientists_, at ODSC East 2024.
 
-This is an [Observable Framework](https://observablehq.com/framework) project. After downloading the code or cloning the repo, open a shell and run the following command inside the directory:
+[Presentation slides available here](https://docs.google.com/presentation/d/1C9V93nSmYCJaQV7ytD2dTzh7GCPTNNzUOTjqF4fWDak/edit?usp=sharing)
+
+This is an [Observable Framework](https://observablehq.com/framework) project using [Observable Plot](https://observablehq.com/plot/) to create the charts. After downloading the code or cloning the repo, open a shell and run the following command inside the directory:
 
 ```
 npm install
