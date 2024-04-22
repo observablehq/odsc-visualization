@@ -4,7 +4,6 @@ export default {
   title: "ODSC Intro to Data Viz",
   theme: "dashboard",
   pager: true,
-  toc: true,
 //   head:
 //     process.env.CI &&
 //     `<script type="module" async src="https://events.observablehq.com/client.js?pageLoad"></script>
