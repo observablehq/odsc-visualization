@@ -2,13 +2,7 @@
 export default {
   // The project’s title; used in the sidebar and webpage titles.
   title: "ODSC Intro to Data Viz",
-  theme: "dashboard",
   pager: true,
-//   head:
-//     process.env.CI &&
-//     `<script type="module" async src="https://events.observablehq.com/client.js?pageLoad"></script>
-// <script async src="https://www.googletagmanager.com/gtag/js?id=G-9B88TP6PKQ"></script>
-// <script>window.dataLayer=window.dataLayer||[];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js',new Date());\ngtag('config','G-9B88TP6PKQ');</script>`,
   header: `<style>
 
 #observablehq-header a[href] {

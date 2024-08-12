@@ -1,6 +1,6 @@
 # ODSC Talk, A Practical Introduction to Data Visualization
 
-These materials contain the code covered in the talk, A Practical Introduction to Data Visualization for Data Scientists, at ODSC East 2024.
+These materials contain the code covered in the talk, _A Practical Introduction to Data Visualization for Data Scientists_, at ODSC East 2024 and ODSC London 2024.
 
 - [Part 1: Basics, scatterplot](part1)
 - [Part 2: Bar charts, data shapes](part2)
