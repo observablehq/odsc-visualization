@@ -9,12 +9,12 @@
     "observable": "observable"
   },
   "dependencies": {
-    "@google-analytics/data": "^4.5.0",
-    "@observablehq/framework": "^1.6.0"
+    "@google-analytics/data": "^4.8.0",
+    "@observablehq/framework": "^1.10.1"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7",
-    "rimraf": "^5.0.5"
+    "@types/node": "^20.14.15",
+    "rimraf": "^5.0.10"
   },
   "engines": {
     "node": ">=18"
