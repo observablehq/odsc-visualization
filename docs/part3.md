@@ -33,7 +33,7 @@ Compressed horizontally:
 lineChart(width/2)
 ```
 
-Conpressed vertically:
+Compressed vertically:
 ```js echo
 lineChart(width, 100)
 ```
